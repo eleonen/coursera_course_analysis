@@ -91,4 +91,4 @@ To interact with the data analysis or run your own queries, use the Jupyter note
 - **Course Completion Data:** Analyze course completion rates if data expansion allows, helping assess course effectiveness and learner commitment.
 
 ## Contributors
-- [Erikas Leonenka](https://github.com/Vixamon)
+- [Erikas Leonenka](https://github.com/eleonen)
